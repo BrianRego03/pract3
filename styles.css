@@ -72,3 +72,24 @@ body{
     font-weight: 1000;
     text-align: center;
 }    
+.randinf{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap:30px;
+    flex-wrap: wrap;
+    padding: 50px 0px;
+}
+.infa{
+    max-width: 300px;
+    text-align: center;
+    
+}
+.imagin{
+    max-width: 200px;
+    max-height: 200px;
+    border: 5px #3882f6;
+    border-style: solid;
+    border-radius: 20%;
+    
+}
