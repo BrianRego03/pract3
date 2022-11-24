@@ -1,0 +1,37 @@
+.introd, .hero, .copyr{
+    background-color: #1f2937;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    margin:0px;
+    
+}
+
+.lefthead{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 1000;
+    display: flex;
+    align-items: center;
+    padding-left: 24px;
+     
+
+   
+}
+.righthead{
+    color:#f9faf8;
+    display:flex;
+    gap:24px;
+    list-style: none;
+    padding-right: 24px;
+    font-size: 22px;
+
+}
+body{
+    display: flex;
+    margin: 0px;
+    flex-direction: column;
+}
+ 
